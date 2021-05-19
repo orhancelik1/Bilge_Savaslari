@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     private int highscore;
     private TextView textViewStatus;
 
-    //saving questions array list to get from quizActivity
+    //saving questions array list to get from quizActivity.
     public static List<Question> qs = new ArrayList<>();
 
 
